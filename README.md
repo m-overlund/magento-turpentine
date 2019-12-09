@@ -1,6 +1,5 @@
 # [Nexcess.net](https://www.nexcess.net/) Turpentine Extension for Magento
-[![Build Status](https://travis-ci.org/nexcess/magento-turpentine.png?branch=master,devel)](https://travis-ci.org/nexcess/magento-turpentine)
-[![Scrutinizer](https://scrutinizer-ci.com/g/nexcess/magento-turpentine/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/nexcess/magento-turpentine/)
+## Maintained by MageHost.pro(https://magehost.pro/)
 
 Turpentine is a full page cache extension for [Magento](https://www.magentocommerce.com/)
 that works with [Varnish](https://www.varnish-cache.org/), a very fast caching reverse-proxy. By
@@ -47,7 +46,7 @@ and [Usage](https://github.com/nexcess/magento-turpentine/wiki/Usage) pages.
 
 If you have an issue, please read the [FAQ](https://github.com/nexcess/magento-turpentine/wiki/FAQ)
 then if you still need help, open a bug report in GitHub's
-[issue tracker](https://github.com/nexcess/magento-turpentine/issues).
+[issue tracker](https://github.com/jeroenvermeulen/magento-turpentine/issues).
 
 Please do not use Magento Connect's Reviews or (especially) the Q&A for support.
 There isn't a way for me to reply to reviews and the Q&A moderation is very slow.

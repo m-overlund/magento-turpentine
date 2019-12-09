@@ -1,5 +1,5 @@
 # [Nexcess.net](https://www.nexcess.net/) Turpentine Extension for Magento
-## Maintained by MageHost.pro(https://magehost.pro/)
+#### Maintained by [MageHost.pro](https://magehost.pro/)
 
 Turpentine is a full page cache extension for [Magento](https://www.magentocommerce.com/)
 that works with [Varnish](https://www.varnish-cache.org/), a very fast caching reverse-proxy. By
